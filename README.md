@@ -13,7 +13,7 @@ A professional secure code audit project for a basic Flask-based login system. T
 
 ---
 
-## ⚠️ Identified Vulnerabilities in `vulnerable_app/login.py`
+## ⚠️ Identified Vulnerabilities in `vulnerable_app.py`
 
 | 🔢 | Vulnerability              | Description |
 |----|----------------------------|-------------|
@@ -25,7 +25,7 @@ A professional secure code audit project for a basic Flask-based login system. T
 
 ---
 
-## ✅ Secure Fixes in `secure_app/login_secure.py`
+## ✅ Secure Fixes in `secure_app.py`
 
 | 🔢 | Fix Applied                  | Explanation |
 |----|------------------------------|-------------|
