@@ -55,7 +55,7 @@ A professional secure code audit project for a basic Flask-based login system. T
 
 Step 1
 ```bash
-https://github.com/astephen-git/codealpha_Secure.coding.review.git
+git clone https://github.com/astephen-git/codealpha_Secure.coding.review.git
 cd codealpha_Secure.coding.review
 ```
 Step 2
