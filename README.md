@@ -13,18 +13,6 @@ A professional secure code audit project for a basic Flask-based login system. T
 
 ---
 
-## 📁 Project Structure
-
-secure-coding-review/
-├── vulnerable_app.py # Insecure login logic
-├── secure_app.py # Secure refactored login logic
-├── bandit_report.txt # Static analysis report
-├── requirements.txt # Python dependencies
-├── .gitignore # Files ignored by Git
-└── README.md # Full documentation
-
----
-
 ## ⚠️ Identified Vulnerabilities in `vulnerable_app/login.py`
 
 | 🔢 | Vulnerability              | Description |
